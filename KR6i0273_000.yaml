@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0273/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無極寶三昧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0636.xml
+    old_id: T15n0636
+hash: sha256:2a497b16d64fc239fa330f8582527b6322d7fbc6f3e8045414e4d858d0c86c9f
